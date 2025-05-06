@@ -1,0 +1,19 @@
+{
+    "type": "object",
+    "required": [
+      "id",
+      "fullName",
+      "idBoards"
+    ],
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "fullName": {
+        "type": "string"
+      },
+      "idBoards": {
+        "type": "array"
+      }
+    }
+  }

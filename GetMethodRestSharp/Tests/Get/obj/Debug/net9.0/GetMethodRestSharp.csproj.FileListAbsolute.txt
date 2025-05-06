@@ -1,0 +1,5 @@
+/Users/virginia.mesa/Documents/career_path/NET_Testing/net_rest_sharp/GetMethodRestSharp/Tests/Get/obj/Debug/net9.0/GetMethodRestSharp.csproj.AssemblyReference.cache
+/Users/virginia.mesa/Documents/career_path/NET_Testing/net_rest_sharp/GetMethodRestSharp/Tests/Get/obj/Debug/net9.0/GetMethodRestSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virginia.mesa/Documents/career_path/NET_Testing/net_rest_sharp/GetMethodRestSharp/Tests/Get/obj/Debug/net9.0/GetMethodRestSharp.AssemblyInfoInputs.cache
+/Users/virginia.mesa/Documents/career_path/NET_Testing/net_rest_sharp/GetMethodRestSharp/Tests/Get/obj/Debug/net9.0/GetMethodRestSharp.AssemblyInfo.cs
+/Users/virginia.mesa/Documents/career_path/NET_Testing/net_rest_sharp/GetMethodRestSharp/Tests/Get/obj/Debug/net9.0/GetMethodRestSharp.csproj.CoreCompileInputs.cache

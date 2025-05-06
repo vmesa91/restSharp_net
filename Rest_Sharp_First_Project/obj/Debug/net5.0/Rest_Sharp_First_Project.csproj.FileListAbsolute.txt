@@ -1,0 +1,5 @@
+/Users/virginia.mesa/Documents/NET_Testing/net_rest_sharp/Rest_Sharp_First_Project/obj/Debug/net5.0/Rest_Sharp_First_Project.csproj.AssemblyReference.cache
+/Users/virginia.mesa/Documents/NET_Testing/net_rest_sharp/Rest_Sharp_First_Project/obj/Debug/net5.0/Rest_Sharp_First_Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virginia.mesa/Documents/NET_Testing/net_rest_sharp/Rest_Sharp_First_Project/obj/Debug/net5.0/Rest_Sharp_First_Project.AssemblyInfoInputs.cache
+/Users/virginia.mesa/Documents/NET_Testing/net_rest_sharp/Rest_Sharp_First_Project/obj/Debug/net5.0/Rest_Sharp_First_Project.AssemblyInfo.cs
+/Users/virginia.mesa/Documents/NET_Testing/net_rest_sharp/Rest_Sharp_First_Project/obj/Debug/net5.0/Rest_Sharp_First_Project.csproj.CoreCompileInputs.cache
